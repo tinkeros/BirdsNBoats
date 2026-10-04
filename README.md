@@ -2,6 +2,8 @@
 
 Fly as a bird or drive a boat across an endless world of hills and lakes, and catch fish. Press **B** at any time to teleport between a random bird or boat that you can control. You can zoom out and look around for fun.
 
+<img width="893" height="673" alt="image" src="https://github.com/user-attachments/assets/1d93fb00-9289-48ca-a466-b15b3b276bfe" />
+
 [Watch the game demo](https://youtu.be/ttGcYPGcqrM)
 
 Terry classified Talons as unfun so I went on a quest to make it fun! Sick of crashing your bird into hills? Now it's avoidable, quick transfer to a boat before you crash! Bird hard to turn? It's easier in 3rd person view, line yourself up and switch to 1st person for the final catch with classic Talons controls! Sick of flying off the edge of the world and needing to slowly turn around? The world is endless now! Ever say to yourself I wish I could drive that boat on the lake down there? Now you can!
